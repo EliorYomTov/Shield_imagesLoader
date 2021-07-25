@@ -14,11 +14,6 @@ public class ImagesmanagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ImagesmanagerApplication.class, args);
-		System.out.println("started");
-
-//		final AmazonS3 s3 = AmazonS3ClientBuilder.standard().build();
-//
-//		List<Bucket> buckets = s3.listBuckets();
+		System.out.println("Ioc Container was loaded");
 	}
-
 }
