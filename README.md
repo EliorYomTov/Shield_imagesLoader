@@ -1,4 +1,4 @@
-# shield_imagesLoader
+# imagesLoader
 
 MVC application with spring boot <br />
 Which imports images from a remote server using the API <br />
